@@ -16,10 +16,14 @@
 
   git remote add origin https://github.com/satishpampati/github-for-devops-workshop.git       
   git remote -v
-  git status
+  git status       
+  git remote -v       
   git remote -v
+<<<<<<< HEAD
   git remote set-url origin https://github.com/satishpampati/github-for-devops-workshop.git
   git remote set-url origin https://github.com/satishpampati/github-for-devops-workshop.git 
+=======
+>>>>>>> e055423 (changed commands)
   git remote -v
   git status
   git push origin master
