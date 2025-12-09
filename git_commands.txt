@@ -23,4 +23,6 @@
 =======
 >>>>>>> e055423 (changed commands)
   git remote -v
+
+These are some new changes
   
